@@ -1,0 +1,57 @@
+.post{
+    background: var(--gray-800);
+    border-radius: 8px;
+    padding: 40px; 
+    margin-top: 155px;
+    margin-left: 268px;
+}
+
+
+.flex{
+        height: "100vh";
+        align-items:"center";
+        justify-items:"center";
+        font-Size:"20px";
+        font-Family:"poppins";
+}
+
+.btCadastro{
+    color: var(--white);
+    background-color: var(--purple-300);
+    float: right;
+    border-radius: 20px;
+    
+    width: 134px;
+    height: 36px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.userList{
+    color: var(--gray-600);
+    font-feature-settings: 'clig' off, 'liga' off;
+    
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 157.143% */
+}
+
+.userList th{
+    color: var(--gray-900);
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+
+
